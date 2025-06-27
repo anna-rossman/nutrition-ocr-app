@@ -85,9 +85,11 @@ nutrition-ocr/
 ## 🧪 Example Input
 
 Image: Photo or screenshot of ingredient list
+
 ![ingredients list](images/input.png)
 
 Output:
+
 ![OCR output](images/output.png)
 
 ## 🧱 Coming Soon
